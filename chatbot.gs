@@ -97,7 +97,7 @@ function logMessage_(level, message, raw) {
 
 function callGemini_(prompt) {
   const config = getConfig_();
-  const url = 'https://generativelanguage.googleapis.com/v1beta/models/gemini-1.5-flash:generateContent?key='
+  const url = 'https://generativelanguage.googleapis.com/v1beta/models/gemini-2.5-flash-lite:generateContent?key='
               + config.GEMINI_API_KEY;
 
   const payload = {
