@@ -4,7 +4,7 @@
 
 ## 📸 成果展示
 
-<img src="./img/chat.jpg" alt="成果展示" width="200">
+<img src="./img/chat.jpg" alt="成果展示" width="300">
 
 ## ✨ 主要功能
 
